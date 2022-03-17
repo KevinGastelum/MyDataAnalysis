@@ -2,8 +2,8 @@
 My Data Analysis work comprising of projects done using Excel, Tableau, Apache Spark/PySpark and other tools...  
 
 ## Excel Project (#1)
-### Matt Brattin's Excel for Analytics
-Learn Excel shortcuts and commands, Data Cleaning, clean Data Presentation, and Data Exploration & Analysis following Matt Brattin's Youtube series here:
+### Learn Excel shortcuts and commands, Data Cleaning, clean Data Presentation, and Data Exploration & Analysis following Matt Brattin's Youtube series
+Matt Brattin's Excel for Analytics series here:
 <br> https://www.youtube.com/watch?v=45_yTM1HfTc&list=PL_WHfGYyPRuOWqablvZAw3iJHUoIGk7F3&index=2&ab_channel=MattBrattin
 
 ## SQL Project (#2) 
