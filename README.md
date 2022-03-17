@@ -1,4 +1,4 @@
-# My Data Analyst Projects
+# Data Analyst Projects
 My Data Analysis work comprising of projects done using Excel, Tableau, Apache Spark/PySpark and other tools...  
 
 ## Excel Project (#1)
