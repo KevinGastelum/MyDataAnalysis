@@ -25,10 +25,6 @@ https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv
 ### Data Correlation with Python following Alex the Analyst Youtube Tutorial here:
 https://www.youtube.com/watch?v=iPYVYBtUTyE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=4&ab_channel=AlexTheAnalyst
 
-## Python Project (#7)
-### Amazon Web Scraper with Python following Alex the Analyst Youtube Tutorial here:
-https://www.youtube.com/watch?v=HiOtQMcI5wg&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=6&ab_channel=AlexTheAnalyst
-
-## PySpark Project (#8)
+## PySpark Project (#7)
 ### Pyspark tutorial following FreeCodeCamp here:
 https://www.youtube.com/watch?v=_C8kWso4ne4&t=4099s&ab_channel=freeCodeCamp.org
