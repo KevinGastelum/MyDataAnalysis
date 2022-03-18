@@ -3,7 +3,9 @@ My Data Analysis work comprising of projects done using Excel, Tableau, Apache S
 
 ## Excel Project (#1)
 [[Organizing Volume by Region]](https://github.com/KevinGastelum/MyDataAnalystProjects/tree/main/1.%20Organizing%20Volume%20by%20Region)
-![](images/excel-img.jpg)
+<!-- ![](images/excel-img.jpg) -->
+<img src="images/excel-img.jpg" width="500" >
+
 ### Learn Excel shortcuts and commands, Data Cleaning, clean Data Presentation, and Data Exploration & Analysis following Matt Brattin's Youtube series here:
 https://www.youtube.com/watch?v=45_yTM1HfTc&list=PL_WHfGYyPRuOWqablvZAw3iJHUoIGk7F3&index=2&ab_channel=MattBrattin
 
