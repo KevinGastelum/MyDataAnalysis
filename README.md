@@ -13,6 +13,9 @@ https://www.youtube.com/watch?v=45_yTM1HfTc&list=PL_WHfGYyPRuOWqablvZAw3iJHUoIGk
 ### Learn SQL Data exploration following Alex the Analyst Youtube Tutorial here:
 https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1&ab_channel=AlexTheAnalyst
 
+### COVID-19 Deaths Data Set pulled from Our World in Data here:
+https://ourworldindata.org/covid-deaths
+
 ## SQL Project (#3)
 ### Learn SQL Data Cleaning following Alex the Analyst Youtube Tutorial here:
 https://www.youtube.com/watch?v=8rO7ztF4NtU&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=3&ab_channel=AlexTheAnalyst
