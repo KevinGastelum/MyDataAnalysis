@@ -2,18 +2,23 @@
 My Data Analysis work comprising of projects done using Excel, Tableau, Apache Spark/PySpark and other tools...  
 
 ## Excel Project (#1)
+### Shortcuts and commands, Data Cleaning, clean Data Presentation, and Data Exploration & Analysis with Excel
 [[Organizing Volume by Region]](https://github.com/KevinGastelum/MyDataAnalystProjects/tree/main/1.%20Organizing%20Volume%20by%20Region)
 <!-- ![](images/excel-img.jpg) -->
 <img src="images/excel-img.jpg" width="500" >
-
-### Learn Excel shortcuts and commands, Data Cleaning, clean Data Presentation, and Data Exploration & Analysis following Matt Brattin's Youtube series here:
+Follow Matt Brattin's Youtube series here:
 https://www.youtube.com/watch?v=45_yTM1HfTc&list=PL_WHfGYyPRuOWqablvZAw3iJHUoIGk7F3&index=2&ab_channel=MattBrattin
 
+
 ## SQL Project (#2) 
-### COVID-19 Deaths Data Set pulled from Our World in Data here:
+### Exploring Data in SQL using COVID-19 Deaths, Cases, Vaccinations, Countries, Population, Etc. 
+[[COVID-19 Data Exploration in SQL]](https://github.com/KevinGastelum/MyDataAnalystProjects/tree/main/2.%20COVID-19%20Data%20Exploration%20in%20SQL)
+<img src="images/SQLProject1.png" width="900" >
+
+COVID-19 Data Set pulled from Our World in Data here:
 https://ourworldindata.org/covid-deaths
 
-### SQL Data exploration following along Alex the Analyst Youtube Tutorial here:
+Completed following along Alex the Analyst Youtube Tutorial here:
 https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1&ab_channel=AlexTheAnalyst
 
 
