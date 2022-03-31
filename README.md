@@ -6,8 +6,8 @@ My Data Analysis work comprising of projects done using Excel, Tableau, Apache S
 [[Organizing Volume by Region]](https://github.com/KevinGastelum/MyDataAnalystProjects/tree/main/1.%20Organizing%20Volume%20by%20Region)
 <!-- ![](images/excel-img.jpg) -->
 <img src="images/excel-img.jpg" width="500" >
-Follow Matt Brattin's Youtube series here:
-https://www.youtube.com/watch?v=45_yTM1HfTc&list=PL_WHfGYyPRuOWqablvZAw3iJHUoIGk7F3&index=2&ab_channel=MattBrattin
+Completed following Matt Brattin's Youtube series here:
+<br> https://www.youtube.com/watch?v=45_yTM1HfTc&list=PL_WHfGYyPRuOWqablvZAw3iJHUoIGk7F3&index=2&ab_channel=MattBrattin
 
 
 ## SQL Project (#2) 
@@ -19,7 +19,7 @@ COVID-19 Data Set pulled from Our World in Data here:
 https://ourworldindata.org/covid-deaths
 
 Completed following along Alex the Analyst Youtube Tutorial here:
-https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1&ab_channel=AlexTheAnalyst
+<br> https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1&ab_channel=AlexTheAnalyst
 
 
 ## SQL Project (#3)
