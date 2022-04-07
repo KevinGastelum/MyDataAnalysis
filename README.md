@@ -37,17 +37,17 @@ https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv
 https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=7&ab_channel=AlexTheAnalyst
 
 
-<!-- ## PowerBi Project (#6) 
+## PowerBi Project (#6) 
 ### Data Analysis in Power BI course offered by Microsoft
 https://docs.microsoft.com/en-us/learn/paths/perform-analytics-power-bi/
--->
 
-## Python Project (#6)
+
+## Python Project (#7)
 ### Data Correlation with Python following Alex the Analyst Youtube Tutorial here:
 https://www.youtube.com/watch?v=iPYVYBtUTyE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=4&ab_channel=AlexTheAnalyst
 
 
-## PySpark Project (#7)
+## PySpark Project (#8)
 ### Pyspark tutorial following FreeCodeCamp here:
 https://www.youtube.com/watch?v=_C8kWso4ne4&t=4099s&ab_channel=freeCodeCamp.org
 
