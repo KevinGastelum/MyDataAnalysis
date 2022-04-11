@@ -1,5 +1,4 @@
-# Data Analyst Projects
-My Data Analysis work comprising of projects done using Excel, Tableau, Apache Spark/PySpark and other tools...  
+# My Data Analyst Projects
 
 ## Excel Project (#1)
 ### Shortcuts and commands, Data Cleaning, clean Data Presentation, and Data Exploration & Analysis with Excel
