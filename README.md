@@ -29,6 +29,7 @@ https://www.youtube.com/watch?v=8rO7ztF4NtU&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv
 ## Tableau Project (#4)
 ### Tableau Data Visualization Tutorial here:
 https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2&ab_channel=AlexTheAnalyst
+<img src="images/TableauProject1.jpg" >
 
 
 ## Tableau Project (#5)
