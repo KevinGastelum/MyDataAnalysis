@@ -22,17 +22,17 @@ Completed following along Alex the Analyst Youtube Tutorial here:
 
 
 ## SQL Project (#3)
-### SQL Data Cleaning following along Alex the Analyst Youtube Tutorial here:
+### SQL Data Cleaning Tutorial here:
 https://www.youtube.com/watch?v=8rO7ztF4NtU&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=3&ab_channel=AlexTheAnalyst
 
 
 ## Tableau Project (#4)
-### Tableau Data Visualization following along Alex the Analyst Youtube Tutorial here:
+### Tableau Data Visualization Tutorial here:
 https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2&ab_channel=AlexTheAnalyst
 
 
 ## Tableau Project (#5)
-### Create a full Data Analyst project using Tableau following Alex the Analyst Youtube Tutorial here:
+### Create a full Data Analyst project using Tableau Tutorial here:
 https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=7&ab_channel=AlexTheAnalyst
 
 
@@ -42,11 +42,11 @@ https://docs.microsoft.com/en-us/learn/paths/perform-analytics-power-bi/
 
 
 ## Python Project (#7)
-### Data Correlation with Python following Alex the Analyst Youtube Tutorial here:
+### Data Correlation with Python Tutorial here:
 https://www.youtube.com/watch?v=iPYVYBtUTyE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=4&ab_channel=AlexTheAnalyst
 
 
 ## PySpark Project (#8)
-### Pyspark tutorial following FreeCodeCamp here:
+### Pyspark tutorial from FreeCodeCamp here:
 https://www.youtube.com/watch?v=_C8kWso4ne4&t=4099s&ab_channel=freeCodeCamp.org
 
