@@ -14,12 +14,10 @@ Completed following Matt Brattin's Youtube series here:
 [[COVID-19 Data Exploration in SQL]](https://github.com/KevinGastelum/MyDataAnalystProjects/tree/main/2.%20COVID-19%20Data%20Exploration%20in%20SQL)
 <img src="images/SQLProject1.png" >
 
-COVID-19 Data Set pulled from Our World in Data here:
-https://ourworldindata.org/covid-deaths
-
 Completed following along Alex the Analyst Youtube Tutorial here:
-<br> https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1&ab_channel=AlexTheAnalyst
-
+https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1&ab_channel=AlexTheAnalyst
+<br> COVID-19 Data Set pulled from Our World in Data here:
+https://ourworldindata.org/covid-deaths
 
 ## SQL Project (#3)
 ### SQL Data Cleaning Tutorial here:
@@ -27,9 +25,11 @@ https://www.youtube.com/watch?v=8rO7ztF4NtU&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv
 
 
 ## Tableau Project (#4)
-### Tableau Data Visualization Tutorial here:
-https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2&ab_channel=AlexTheAnalyst
+### COVID Data Visualization
+[[Tableau Dashboard]](https://github.com/KevinGastelum/MyDataAnalystProjects/tree/main/4.%20Tableau)
 <img src="images/TableauProject1.png" >
+Tableau Data Visualization Tutorial here:
+https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2&ab_channel=AlexTheAnalyst
 
 
 ## Tableau Project (#5)
