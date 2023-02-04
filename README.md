@@ -20,7 +20,7 @@ https://ourworldindata.org/covid-deaths
 https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1&ab_channel=AlexTheAnalyst
 -->
 
-## PowerBi Project (#3) [[Sales Dashboard]](https://github.com/KevinGastelum/MyDataAnalystProjects/tree/main/3.PowerBI)
+## PowerBi Project (#3) [[Sales Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiNDliMGExOGYtMmNkOC00ZmUwLWFjYWMtZTgwZDNmNTRhMTE5IiwidCI6ImYzM2I1YmU3LWVhZGQtNGUyNC1iMjI5LWFkNjBlN2FmOTZiOSJ9)
 ### Created using PowerBI's Financials sample dataset
 <img src="images/PowerBI.png" >
 <img src="images/PowerBI_2.png" >
