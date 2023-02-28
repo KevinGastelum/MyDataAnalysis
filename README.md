@@ -20,12 +20,16 @@ https://ourworldindata.org/covid-deaths
 https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1&ab_channel=AlexTheAnalyst
 -->
 
-## PowerBi Project (#3) [[Sales Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiNDliMGExOGYtMmNkOC00ZmUwLWFjYWMtZTgwZDNmNTRhMTE5IiwidCI6ImYzM2I1YmU3LWVhZGQtNGUyNC1iMjI5LWFkNjBlN2FmOTZiOSJ9)
+## PowerBI Project (#3) [[Sales Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiNDliMGExOGYtMmNkOC00ZmUwLWFjYWMtZTgwZDNmNTRhMTE5IiwidCI6ImYzM2I1YmU3LWVhZGQtNGUyNC1iMjI5LWFkNjBlN2FmOTZiOSJ9)
 ### Created using PowerBI's Financials sample dataset
 <img src="images/PowerBI.png" >
 <img src="images/PowerBI_2.png" >
 
-## Tableau Project (#4) [[Tableau Dashboard]](https://public.tableau.com/app/profile/kevin.gastelum/viz/CovidDashboardTutorial_16506786531500/Dashboard1)
+## Power BI Project (#4) [[Data Modeling]](https://github.com/KevinGastelum/MyDataAnalysis/tree/main/5.%20PowerBi_Modeling)
+### Data Modeling in Power BI
+<img src="images/DataModeling_PowerBI.png" height="800">
+
+## Tableau Project (#5) [[Tableau Dashboard]](https://public.tableau.com/app/profile/kevin.gastelum/viz/CovidDashboardTutorial_16506786531500/Dashboard1)
 ### COVID Cases Data
 <img src="images/TableauProject1.png" >
 <!-- Tableau Data Visualization Tutorial here:
@@ -33,22 +37,22 @@ https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv
 -->
 
 <!--
-## Tableau Project (#5)
+## Tableau Project (#6)
 ### Create a full Data Analyst project using Tableau Tutorial here:
 https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=7&ab_channel=AlexTheAnalyst
 -->
 
-## SQL Project (#5)
+## SQL Project (#6)
 ### SQL Data Cleaning Tutorial here:
 https://www.youtube.com/watch?v=8rO7ztF4NtU&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=3&ab_channel=AlexTheAnalyst
 
 
-## Python Project (#6)
+## Python Project (#7)
 ### Data Correlation with Python Tutorial here:
 https://www.youtube.com/watch?v=iPYVYBtUTyE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=4&ab_channel=AlexTheAnalyst
 
 
-## PySpark Project (#7)
+## PySpark Project (#8)
 ### Pyspark tutorial from FreeCodeCamp here:
 https://www.youtube.com/watch?v=_C8kWso4ne4&t=4099s&ab_channel=freeCodeCamp.org
 
