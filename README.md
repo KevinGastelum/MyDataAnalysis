@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv
 -->
 
 ## Website Project #6 [[Data Analyst Job Board]](https://kevingastelum.github.io/MyJobSearchSite/)
-<img src="images/JobSite.png" width="700" >
+<img src="images/Job_Site.png" width="700" >
 
 
 <!--
