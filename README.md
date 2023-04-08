@@ -1,7 +1,6 @@
 # My Data Analyst Projects
 
-## Excel Project (#1) [[Organizing Volume by Region]](https://github.com/KevinGastelum/MyDataAnalystProjects/tree/main/1.%20Organizing%20Volume%20by%20Region)
-### Data Exploration & Analysis with Excel
+## Excel Project (#1) [[Data Exploration & Analysis with Excel]](https://github.com/KevinGastelum/MyDataAnalystProjects/tree/main/1.%20Organizing%20Volume%20by%20Region)
 
 <!-- ![](images/excel-img.jpg) -->
 <img src="images/excel-img.png" width="500">
@@ -21,16 +20,13 @@ https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv
 -->
 
 ## PowerBI Project (#3) [[Sales Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiNDliMGExOGYtMmNkOC00ZmUwLWFjYWMtZTgwZDNmNTRhMTE5IiwidCI6ImYzM2I1YmU3LWVhZGQtNGUyNC1iMjI5LWFkNjBlN2FmOTZiOSJ9)
-### Created using PowerBI's Financials sample dataset
 <img src="images/PowerBI.png" >
 <img src="images/PowerBI_2.png" >
 
-## Power BI Project (#4) [[Data Modeling]](https://github.com/KevinGastelum/MyDataAnalysis/tree/main/5.%20PowerBi_Modeling)
-### Data Modeling in Power BI
+## Power BI Project (#4) [[Data Modeling in Power BI]](https://github.com/KevinGastelum/MyDataAnalysis/tree/main/5.%20PowerBi_Modeling)
 <img src="images/DataModeling_PowerBI.png" height="800">
 
 ## Tableau Project (#5) [[Tableau Dashboard]](https://public.tableau.com/app/profile/kevin.gastelum/viz/CovidDashboardTutorial_16506786531500/Dashboard1)
-### COVID Cases Data
 <img src="images/TableauProject1.png" >
 <!-- Tableau Data Visualization Tutorial here:
 https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2&ab_channel=AlexTheAnalyst
