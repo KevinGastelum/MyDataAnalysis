@@ -9,7 +9,7 @@
 -->
 
 ## SQL Project (#2) [[COVID-19 Data Exploration in SQL]](https://github.com/KevinGastelum/MyDataAnalystProjects/tree/main/2.%20COVID-19%20Data%20Exploration%20in%20SQL)
-### Exploring Data in SQL using COVID-19 Deaths, Cases, Vaccinations, Countries, Population, Etc. 
+### Exploring Data in SQL using COVID-19 Deaths, Cases, Vaccinations, Countries, Population
 COVID-19 Dataset:
 https://ourworldindata.org/covid-deaths
 <img src="images/SQLProject1.png" height="500">
