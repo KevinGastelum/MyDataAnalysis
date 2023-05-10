@@ -32,13 +32,14 @@ https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv
 https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2&ab_channel=AlexTheAnalyst
 -->
 
-## Website Project #6 [[Data Analyst Job Board]](https://kevingastelum.github.io/MyJobSearchSite/)
+## Python Website Project #6 [[Data Analyst Job Board (click here)]](https://kevingastelum.github.io/MyJobSearchSite/)
 <img src="images/Job_Site.png" width="700" >
 
-## Website Project #7 [[Breast Cancer Diagnosis ML WebApp]](https://kevingastelum-cancer-diagnosis-app-appmain-8rtucj.streamlit.app/)
+## Python WebApp Project #7 [[Breast Cancer Diagnosis ML (click here)]](https://kevingastelum-cancer-diagnosis-app-appmain-8rtucj.streamlit.app/)
 <img src="images/Streamlitapp.png">
 
-
+## Python WebApp Project #8 [[PDF AI/LLM (click here)]](https://kevingastelum-pdf-ai-app-app-se8ck0.streamlit.app/)
+<img src="images/kevins_pdf_ai.png">
 
 
 <!--
