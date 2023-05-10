@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv
 <img src="images/Streamlitapp.png">
 
 ## Python WebApp Project #8 [[PDF AI/LLM (click here)]](https://kevingastelum-pdf-ai-app-app-se8ck0.streamlit.app/)
-<img src="images/kevins_pdf_ai.png">
+<img src="images/kevins_pdf_ai_.png">
 
 
 <!--
