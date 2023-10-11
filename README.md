@@ -1,30 +1,13 @@
 # My Data Analyst Projects
 
-## Excel Project (#1) [[Data Exploration & Analysis with Excel]](https://github.com/KevinGastelum/MyDataAnalystProjects/tree/main/1.%20Organizing%20Volume%20by%20Region)
+## Python WebApp Project #8 [[PDF AI/LLM (click here)]](https://kevingastelum-pdf-ai-app-app-se8ck0.streamlit.app/)
+<img src="images/kevins_pdf_ai_.png">
 
-<!-- ![](images/excel-img.jpg) -->
-<img src="images/excel-img.png" width="500">
-<!--Completed following Matt Brattin's Youtube series here:
-<br> https://www.youtube.com/watch?v=45_yTM1HfTc&list=PL_WHfGYyPRuOWqablvZAw3iJHUoIGk7F3&index=2&ab_channel=MattBrattin
--->
+## Python WebApp Project #7 [[Breast Cancer Diagnosis ML (click here)]](https://kevingastelum-cancer-diagnosis-app-appmain-8rtucj.streamlit.app/)
+<img src="images/Streamlitapp.png">
 
-## SQL Project (#2) [[COVID-19 Data Exploration in SQL]](https://github.com/KevinGastelum/MyDataAnalystProjects/tree/main/2.%20COVID-19%20Data%20Exploration%20in%20SQL)
-### Exploring Data in SQL using COVID-19 Deaths, Cases, Vaccinations, Countries, Population
-COVID-19 Dataset:
-https://ourworldindata.org/covid-deaths
-<img src="images/SQLProject1.png" height="500">
-
-
-<!--Completed following along Alex the Analyst Youtube Tutorial here:
-https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1&ab_channel=AlexTheAnalyst
--->
-
-## PowerBI Project (#3) [[Sales Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiNDliMGExOGYtMmNkOC00ZmUwLWFjYWMtZTgwZDNmNTRhMTE5IiwidCI6ImYzM2I1YmU3LWVhZGQtNGUyNC1iMjI5LWFkNjBlN2FmOTZiOSJ9)
-<img src="images/PowerBI.png" >
-<img src="images/PowerBI_2.png" >
-
-## Power BI Project (#4) [[Data Modeling in Power BI]](https://github.com/KevinGastelum/MyDataAnalysis/tree/main/5.%20PowerBi_Modeling)
-<img src="images/DataModeling_PowerBI.png" height="800">
+## Python Website Project #6 [[Data Analyst Job Board (click here)]](https://kevingastelum.github.io/MyJobSearchSite/)
+<img src="images/Job_Site.png" width="700" >
 
 ## Tableau Project (#5) [[Tableau Dashboard]](https://public.tableau.com/app/profile/kevin.gastelum/viz/CovidDashboardTutorial_16506786531500/Dashboard1)
 <img src="images/TableauProject1.png" >
@@ -32,14 +15,40 @@ https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv
 https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2&ab_channel=AlexTheAnalyst
 -->
 
-## Python Website Project #6 [[Data Analyst Job Board (click here)]](https://kevingastelum.github.io/MyJobSearchSite/)
-<img src="images/Job_Site.png" width="700" >
+## Power BI Project (#4) [[Data Modeling in Power BI]](https://github.com/KevinGastelum/MyDataAnalysis/tree/main/5.%20PowerBi_Modeling)
+<img src="images/DataModeling_PowerBI.png" height="800">
 
-## Python WebApp Project #7 [[Breast Cancer Diagnosis ML (click here)]](https://kevingastelum-cancer-diagnosis-app-appmain-8rtucj.streamlit.app/)
-<img src="images/Streamlitapp.png">
+## PowerBI Project (#3) [[Sales Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiNDliMGExOGYtMmNkOC00ZmUwLWFjYWMtZTgwZDNmNTRhMTE5IiwidCI6ImYzM2I1YmU3LWVhZGQtNGUyNC1iMjI5LWFkNjBlN2FmOTZiOSJ9)
+<img src="images/PowerBI.png" >
+<img src="images/PowerBI_2.png" >
 
-## Python WebApp Project #8 [[PDF AI/LLM (click here)]](https://kevingastelum-pdf-ai-app-app-se8ck0.streamlit.app/)
-<img src="images/kevins_pdf_ai_.png">
+## SQL Project (#2) [[COVID-19 Data Exploration in SQL]](https://github.com/KevinGastelum/MyDataAnalystProjects/tree/main/2.%20COVID-19%20Data%20Exploration%20in%20SQL)
+### Exploring Data in SQL using COVID-19 Deaths, Cases, Vaccinations, Countries, Population
+COVID-19 Dataset:
+https://ourworldindata.org/covid-deaths
+<img src="images/SQLProject1.png" height="500">
+<!--Completed following along Alex the Analyst Youtube Tutorial here:
+https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1&ab_channel=AlexTheAnalyst
+-->
+
+## Excel Project (#1) [[Data Exploration & Analysis with Excel]](https://github.com/KevinGastelum/MyDataAnalystProjects/tree/main/1.%20Organizing%20Volume%20by%20Region)
+<!-- ![](images/excel-img.jpg) -->
+<img src="images/excel-img.png" width="500">
+<!--Completed following Matt Brattin's Youtube series here:
+<br> https://www.youtube.com/watch?v=45_yTM1HfTc&list=PL_WHfGYyPRuOWqablvZAw3iJHUoIGk7F3&index=2&ab_channel=MattBrattin
+-->
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
