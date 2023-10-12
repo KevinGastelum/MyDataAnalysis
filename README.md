@@ -1,17 +1,17 @@
 # My Data Analyst Projects
 
-## Python WebApp Project #8 [[PDF AI/LLM (click here)]](https://kevingastelum-pdf-ai-app-app-se8ck0.streamlit.app/)
+## Python WebApp Project (#8) [[PDF AI/LLM (click here)]](https://kevingastelum-pdf-ai-app-app-se8ck0.streamlit.app/)
 <img src="images/kevins_pdf_ai_.png">
 
-## Python WebApp Project #7 [[Breast Cancer Diagnosis ML (click here)]](https://kevingastelum-cancer-diagnosis-app-appmain-8rtucj.streamlit.app/)
+## Python WebApp Project (#7) [[Breast Cancer Diagnosis ML (click here)]](https://kevingastelum-cancer-diagnosis-app-appmain-8rtucj.streamlit.app/)
 <img src="images/Streamlitapp.png">
 
-## Power BI Project (#6) [[Data Modeling in Power BI]](https://github.com/KevinGastelum/MyDataAnalysis/tree/main/5.%20PowerBi_Modeling)
-<img src="images/DataModeling_PowerBI.png" height="800">
-
-## PowerBI Project (#5) [[Sales Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiNDliMGExOGYtMmNkOC00ZmUwLWFjYWMtZTgwZDNmNTRhMTE5IiwidCI6ImYzM2I1YmU3LWVhZGQtNGUyNC1iMjI5LWFkNjBlN2FmOTZiOSJ9)
+## PowerBI Project (#6) [[Sales Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiNDliMGExOGYtMmNkOC00ZmUwLWFjYWMtZTgwZDNmNTRhMTE5IiwidCI6ImYzM2I1YmU3LWVhZGQtNGUyNC1iMjI5LWFkNjBlN2FmOTZiOSJ9)
 <img src="images/PowerBI.png" >
 <img src="images/PowerBI_2.png" >
+
+## Power BI Project (#5) [[Data Modeling in Power BI]](https://github.com/KevinGastelum/MyDataAnalysis/tree/main/5.%20PowerBi_Modeling)
+<img src="images/DataModeling_PowerBI.png" width="800">
 
 ## Python Website Project (#4) [[Data Analyst Job Board (click here)]](https://kevingastelum.github.io/MyJobSearchSite/)
 <img src="images/Job_Site.png" width="700" >
