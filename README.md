@@ -6,21 +6,21 @@
 ## Python WebApp Project #7 [[Breast Cancer Diagnosis ML (click here)]](https://kevingastelum-cancer-diagnosis-app-appmain-8rtucj.streamlit.app/)
 <img src="images/Streamlitapp.png">
 
-## Python Website Project #6 [[Data Analyst Job Board (click here)]](https://kevingastelum.github.io/MyJobSearchSite/)
+## Power BI Project (#6) [[Data Modeling in Power BI]](https://github.com/KevinGastelum/MyDataAnalysis/tree/main/5.%20PowerBi_Modeling)
+<img src="images/DataModeling_PowerBI.png" height="800">
+
+## PowerBI Project (#5) [[Sales Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiNDliMGExOGYtMmNkOC00ZmUwLWFjYWMtZTgwZDNmNTRhMTE5IiwidCI6ImYzM2I1YmU3LWVhZGQtNGUyNC1iMjI5LWFkNjBlN2FmOTZiOSJ9)
+<img src="images/PowerBI.png" >
+<img src="images/PowerBI_2.png" >
+
+## Python Website Project (#4) [[Data Analyst Job Board (click here)]](https://kevingastelum.github.io/MyJobSearchSite/)
 <img src="images/Job_Site.png" width="700" >
 
-## Tableau Project (#5) [[Tableau Dashboard]](https://public.tableau.com/app/profile/kevin.gastelum/viz/CovidDashboardTutorial_16506786531500/Dashboard1)
+## Tableau Project (#3) [[Tableau Dashboard]](https://public.tableau.com/app/profile/kevin.gastelum/viz/CovidDashboardTutorial_16506786531500/Dashboard1)
 <img src="images/TableauProject1.png" >
 <!-- Tableau Data Visualization Tutorial here:
 https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2&ab_channel=AlexTheAnalyst
 -->
-
-## Power BI Project (#4) [[Data Modeling in Power BI]](https://github.com/KevinGastelum/MyDataAnalysis/tree/main/5.%20PowerBi_Modeling)
-<img src="images/DataModeling_PowerBI.png" height="800">
-
-## PowerBI Project (#3) [[Sales Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiNDliMGExOGYtMmNkOC00ZmUwLWFjYWMtZTgwZDNmNTRhMTE5IiwidCI6ImYzM2I1YmU3LWVhZGQtNGUyNC1iMjI5LWFkNjBlN2FmOTZiOSJ9)
-<img src="images/PowerBI.png" >
-<img src="images/PowerBI_2.png" >
 
 ## SQL Project (#2) [[COVID-19 Data Exploration in SQL]](https://github.com/KevinGastelum/MyDataAnalystProjects/tree/main/2.%20COVID-19%20Data%20Exploration%20in%20SQL)
 ### Exploring Data in SQL using COVID-19 Deaths, Cases, Vaccinations, Countries, Population
