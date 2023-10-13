@@ -39,18 +39,6 @@ https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv
 -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <!--
 ## Tableau Project (#6)
 ### Create a full Data Analyst project using Tableau Tutorial here:
