@@ -1,5 +1,8 @@
 # My Data Analyst Projects
 
+## SQL Database Daily Stock Tracking App (#9) [[Automized Daily Stock Tracker]](https://github.com/KevinGastelum/MySQL_Financial_Database/tree/main)
+<img src="images/Financedb_strmlit.png">
+
 ## Python WebApp Project (#8) [[PDF AI/LLM (click here)]](https://kevingastelum-pdf-ai-app-app-se8ck0.streamlit.app/)
 <img src="images/kevins_pdf_ai_.png">
 
