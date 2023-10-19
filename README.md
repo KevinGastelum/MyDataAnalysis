@@ -17,7 +17,7 @@
 <img src="images/DataModeling_PowerBI.png" width="800">
 
 ## Python Website Project (#4) [[Data Analyst Job Board (click here)]](https://kevingastelum.github.io/MySearchSite/)
-<img src="images/Job_Site.png" width="700" >
+<img src="images/JobSite.png" width="700" >
 
 ## Tableau Project (#3) [[Tableau Dashboard]](https://public.tableau.com/app/profile/kevin.gastelum/viz/CovidDashboardTutorial_16506786531500/Dashboard1)
 <img src="images/TableauProject1.png" >
