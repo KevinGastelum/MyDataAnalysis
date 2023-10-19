@@ -1,4 +1,4 @@
-# My Data Analyst Projects
+# Projects
 
 ## SQL Database Daily Stock Tracking App (#9) [[Automized Daily Stock Tracker (Click here)]](https://mysqlfinancialdatabase-3oest9jb8p63gsf2fyqdxb.streamlit.app/)
 <img src="images/Financedb_strmlit-.png">
