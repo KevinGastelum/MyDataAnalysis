@@ -1,5 +1,9 @@
 # Projects
 
+## Machine Learning Finance Dashboard  (#10) [[Real time Data analysis w Predictions (Click here)]](https://my-finance-app-git-main-kevingastelum.vercel.app/)
+<img src="images/FinanceDashboard.png">
+<img src="images/FinancePredictions.png">
+
 ## SQL Database Daily Stock Tracking App (#9) [[Automized Daily Stock Tracker (Click here)]](https://mysqlfinancialdatabase-3oest9jb8p63gsf2fyqdxb.streamlit.app/)
 <img src="images/Financedb_strmlit-.png">
 
