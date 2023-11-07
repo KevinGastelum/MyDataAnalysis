@@ -1,6 +1,6 @@
 # Projects
 
-## Machine Learning Finance Dashboard  (#10) [[Real time Data analysis w Predictions (Click here)]](https://my-finance-app-git-main-kevingastelum.vercel.app/)
+## Machine Learning Finance Dashboard  (#10) [[Real time Data analysis w Predictions (Site here)]](https://my-finance-app-git-main-kevingastelum.vercel.app/)
 <img src="images/FinanceDashboard.png">
 <img src="images/FinancePredictions.png">
 
