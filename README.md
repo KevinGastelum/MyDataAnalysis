@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv
 ### Exploring Data in SQL using COVID-19 Deaths, Cases, Vaccinations, Countries, Population
 COVID-19 Dataset:
 https://ourworldindata.org/covid-deaths
-<img src="images/SQLProject1.png" height="500">
+<img src="images/SQLProject1.png">
 <!--Completed following along Alex the Analyst Youtube Tutorial here:
 https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1&ab_channel=AlexTheAnalyst
 -->
