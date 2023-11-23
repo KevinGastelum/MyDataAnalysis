@@ -1,6 +1,6 @@
 # Projects
 
-## Custom GPT Large Language Model (#11) [[KevGPT (click here)]](https://kevgpt.streamlit.app/)
+## KevGPT (#11) [[for Large Language model (click here)]](https://kevgpt.streamlit.app/)
 <img src="images/KevGPT_img.png">
 
 ## Machine Learning Finance Dashboard  (#10) [[Real time Data analysis w Predictions (Site here)]](https://my-finance-app-git-main-kevingastelum.vercel.app/)
