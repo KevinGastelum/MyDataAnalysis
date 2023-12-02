@@ -1,6 +1,6 @@
 # Projects
 
-## PowerBI Project (#12) [[Financial Dashboard]]()
+## PowerBI Project (#12) [[Financial Biohealth Dashboard]](https://github.com/KevinGastelum/MyDataAnalysis/blob/main/6.%20PowerBI%20Sales%20Dashboard/FinancialBioHealthDashboard.pbix)
 <img src="images/homepagePBI.png" >
 <img src="images/ordersPBI.png" >
 <img src="images/refundsPBI.png" >
