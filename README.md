@@ -1,5 +1,10 @@
 # Projects
 
+## PowerBI Project (#12) [[Financial Dashboard]]()
+<img src="images/homepagePBI.png" >
+<img src="images/ordersPBI.png" >
+<img src="images/refundsPBI.png" >
+
 ## KevGPT (#11) [[for Large Language model (click here)]](https://kevgpt.streamlit.app/)
 <img src="images/KevGPT_img.png">
 
