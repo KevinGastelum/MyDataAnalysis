@@ -1,6 +1,6 @@
 # Projects
 
-  ## PowerBI Project (#12) [[Financial Biohealth Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiNmU2NTkxMzctYjE5Yy00NzhjLWE0NzYtNmRjZTAzNTQyNGEzIiwidCI6IjlmODgxODE4LWE3NjktNDEzYS05Nzc4LTc0NzAyM2ZhM2U0NiIsImMiOjF9)
+  ## PowerBI Project (#12) [[Financial HealthCare Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiNmU2NTkxMzctYjE5Yy00NzhjLWE0NzYtNmRjZTAzNTQyNGEzIiwidCI6IjlmODgxODE4LWE3NjktNDEzYS05Nzc4LTc0NzAyM2ZhM2U0NiIsImMiOjF9)
 <img src="images/homepagePBI.png" >
 <img src="images/ordersPBI.png" >
 <img src="images/refundsPBI.png" >
