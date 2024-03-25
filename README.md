@@ -1,6 +1,6 @@
 # Projects
 
-## Tableau Dashboard (#13) [[Real World Space Missions Analysis Desktop Only]](https://public.tableau.com/views/SpaceMissionsDashboard_17064833230830/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+## Tableau Dashboard (#13) [[Real World Space Missions Analysis [Desktop Only]]](https://public.tableau.com/views/SpaceMissionsDashboard_17064833230830/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <img src="images/Tableau-SpaceMissions.png" >
   
 ## PowerBI Dashboard (#12) [[Financial HealthCare Sales Analysis]](https://app.powerbi.com/view?r=eyJrIjoiNmU2NTkxMzctYjE5Yy00NzhjLWE0NzYtNmRjZTAzNTQyNGEzIiwidCI6IjlmODgxODE4LWE3NjktNDEzYS05Nzc4LTc0NzAyM2ZhM2U0NiIsImMiOjF9)
