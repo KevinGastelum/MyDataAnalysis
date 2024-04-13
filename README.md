@@ -49,7 +49,7 @@ https://ourworldindata.org/covid-deaths
 https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1&ab_channel=AlexTheAnalyst
 -->
 
-## Excel Project (#1) [[Data Exploration & Analysis with Excel]](https://github.com/KevinGastelum/MyDataAnalystProjects/tree/main/1.%20Organizing%20Volume%20by%20Region)
+## Excel Project (#1) [[Data Exploration & Analysis with Excel]](https://github.com/KevinGastelum/MyDataAnalysis/blob/main/1.%20Organizing%20Volume%20by%20Region%20Excel/Volume%20by%20Region%20Data%20Request%20v3.xlsx)
 <!-- ![](images/excel-img.jpg) -->
 <img src="images/excel-img.png" width="500">
 <!--Completed following Matt Brattin's Youtube series here:
